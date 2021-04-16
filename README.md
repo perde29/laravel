@@ -16,3 +16,4 @@ DB_PASSWORD=
 ## Ejecutando las pruebas ⚙️
 
 Para ejecutar el proyecto , correr el comando [ php artisan serve ] , en su servidor de comando.
+para visualizar el proyecto, entrar desde el navegador a traves de esta ruta: http://127.0.0.1:8000/usuario
